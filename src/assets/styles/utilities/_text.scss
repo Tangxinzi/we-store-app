@@ -1,0 +1,21 @@
+.text {
+  &-center {
+    text-align: center !important;
+  }
+
+  &-left {
+    text-align: left !important;
+  }
+
+  &-through {
+    text-decoration: line-through !important;
+  }
+
+  &-muted {
+    color: $color-grey-1 !important;
+  }
+
+  &-bold {
+    font-weight: bold;
+  }
+}
